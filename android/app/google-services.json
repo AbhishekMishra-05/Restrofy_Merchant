@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "856282364600",
+    "firebase_url": "https://foodo-e69ca-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "foodo-e69ca",
+    "storage_bucket": "foodo-e69ca.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856282364600:android:517e42002f72f61448d24d",
+        "android_client_info": {
+          "package_name": "com.foodo_merchant_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "856282364600-2rcdfo3jscsai9f9p37jkkjdjt9ilq7a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcyQhFhb46NbtNWmxxj17gRSYFfZ2jn9I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "856282364600-2rcdfo3jscsai9f9p37jkkjdjt9ilq7a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
